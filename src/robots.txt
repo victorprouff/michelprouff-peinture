@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://michelprouff-peinture.victorprouff.fr/sitemap.xml
+Sitemap: https://test.victorprouff.fr/sitemap.xml
