@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Michel Prouff - Peinture",
+    "description": "",
+    "home_page_url": "https://michelprouff-peinture.victorprouff.fr",
+    "feed_url": "https://michelprouff-peinture.victorprouff.fr/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michel Prouff"
+    },
+    "items": [
+    ]
+}
