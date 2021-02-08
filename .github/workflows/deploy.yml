@@ -11,11 +11,6 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
         
-      - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
-        
       - name: SFTP Deploy
         #uses: SamKirkland/FTP-Deploy-Action@3.1.1
         uses: airvzxf/ftp-deployment-action@latest
