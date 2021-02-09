@@ -9,5 +9,19 @@
         "name": "Michel Prouff"
     },
     "items": [
+        {
+            "id": "https://test.victorprouff.fr/test.html",
+            "url": "https://test.victorprouff.fr/test.html",
+            "title": "test",
+            "summary": "fzergertshtrhtr",
+            "content_html": "<p>fzergertshtrhtr</p>",
+            "author": {
+                "name": "Michel Prouff"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-09T18:53:26+01:00",
+            "date_modified": "2021-02-09T18:53:26+01:00"
+        }
     ]
 }

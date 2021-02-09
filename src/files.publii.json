@@ -100,19 +100,29 @@
         "md5": false
     },
     {
+        "path": "authors/michel-prouff",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/michel-prouff/index.html",
+        "type": "file",
+        "md5": "dad7b260d32570c5e91aab1a6c746804"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "b5627e5ef0fa1fcf25d34e68434c2282"
+        "md5": "40b0fa9422500213117171ae1cad5769"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e06958b108d35246e6db92444eba386f"
+        "md5": "6821a5d2aec79b9453fe19147a108e57"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "cdda2cd3eeffffc4f63c72d53bfe8b53"
+        "md5": "c9f28d830026f31c5df743b86985877c"
     },
     {
         "path": "media",
@@ -157,7 +167,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ff3a2a97d6340b8e4c664c807d6bfdd3"
+        "md5": "68cfe3f6a33f930347cf0fda9aa01290"
     },
     {
         "path": "sitemap.xsl",
@@ -173,5 +183,10 @@
         "path": "/tags/index.html",
         "type": "file",
         "md5": "d11b5117b14b062503c233fc79a4430d"
+    },
+    {
+        "path": "test.html",
+        "type": "file",
+        "md5": "5e602e1971ad7e6730918e81dfca1b95"
     }
 ]
