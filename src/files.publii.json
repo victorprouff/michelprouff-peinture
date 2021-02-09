@@ -107,22 +107,27 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "dad7b260d32570c5e91aab1a6c746804"
+        "md5": "7463df9d47b466ff1dfebd3acb94f1f8"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "40b0fa9422500213117171ae1cad5769"
+        "md5": "0d475c83e022075927cb72c59bdfd553"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6821a5d2aec79b9453fe19147a108e57"
+        "md5": "5fe9131567457e40952aa74108994f4e"
+    },
+    {
+        "path": "galerie.html",
+        "type": "file",
+        "md5": "9b98fc7d1bb0dee18ede06684f355e97"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c9f28d830026f31c5df743b86985877c"
+        "md5": "33b38a6f0bc123100140e487d907a4fe"
     },
     {
         "path": "media",
@@ -141,6 +146,91 @@
     },
     {
         "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/gallery/1475046-robot-hd-thumbnail.jpg",
+        "type": "file",
+        "md5": "f5387d5c644b7d7cf7103b425eb088be"
+    },
+    {
+        "path": "/media/posts/2/gallery/1475046-robot-hd.jpg",
+        "type": "file",
+        "md5": "f846fed5bf155f5fd780d92d19866d1f"
+    },
+    {
+        "path": "/media/posts/2/gallery/black-abstract-wallpapers-271-thumbnail.jpg",
+        "type": "file",
+        "md5": "14e0320c6638a6e39fefda7d8b76795c"
+    },
+    {
+        "path": "/media/posts/2/gallery/black-abstract-wallpapers-271.jpg",
+        "type": "file",
+        "md5": "70e5317f77ad2a5af33e9e7774d3d68a"
+    },
+    {
+        "path": "/media/posts/2/gallery/hebus_1920x1080_1524326093_8646-thumbnail.jpg",
+        "type": "file",
+        "md5": "53b17cc4570cabc8497060a90c01d478"
+    },
+    {
+        "path": "/media/posts/2/gallery/hebus_1920x1080_1524326093_8646.jpg",
+        "type": "file",
+        "md5": "e1a81aa35023482d0df432918e8cd0a9"
+    },
+    {
+        "path": "/media/posts/2/gallery/hebus_1920x1080_1524326133_6904-thumbnail.jpg",
+        "type": "file",
+        "md5": "fdc3e9185dfbd4dd00a99743e639a219"
+    },
+    {
+        "path": "/media/posts/2/gallery/hebus_1920x1080_1524326133_6904.jpg",
+        "type": "file",
+        "md5": "a094c4adfbc139eabe10475135f80312"
+    },
+    {
+        "path": "/media/posts/2/gallery/IMG_8662-thumbnail.jpg",
+        "type": "file",
+        "md5": "254456cd9923ab4f8e1bc088a6c5a65a"
+    },
+    {
+        "path": "/media/posts/2/gallery/IMG_8662.jpg",
+        "type": "file",
+        "md5": "c97d368f6ad3cb59c1e1ac90355f3889"
+    },
+    {
+        "path": "/media/posts/2/gallery/mr-robot-wallpaper-2-thumbnail.jpg",
+        "type": "file",
+        "md5": "7ae0ebfdfde23bddc38dc4d8da355ba0"
+    },
+    {
+        "path": "/media/posts/2/gallery/mr-robot-wallpaper-2.jpg",
+        "type": "file",
+        "md5": "113c8b1415d21f43f9ddcd1647fc83ec"
+    },
+    {
+        "path": "/media/posts/2/gallery/mr-robot-wallpaper-3-thumbnail.jpg",
+        "type": "file",
+        "md5": "bb859bf6b7aae8d707ff4fae4da7eb6d"
+    },
+    {
+        "path": "/media/posts/2/gallery/mr-robot-wallpaper-3.jpg",
+        "type": "file",
+        "md5": "bbd5f18a18c3134ddaa31fd555f9bcde"
+    },
+    {
+        "path": "media/posts/2/responsive",
         "type": "directory",
         "md5": false
     },
@@ -167,7 +257,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "68cfe3f6a33f930347cf0fda9aa01290"
+        "md5": "396ac47a170bada39a7b12fe8f53f140"
     },
     {
         "path": "sitemap.xsl",
@@ -183,10 +273,5 @@
         "path": "/tags/index.html",
         "type": "file",
         "md5": "d11b5117b14b062503c233fc79a4430d"
-    },
-    {
-        "path": "test.html",
-        "type": "file",
-        "md5": "5e602e1971ad7e6730918e81dfca1b95"
     }
 ]
