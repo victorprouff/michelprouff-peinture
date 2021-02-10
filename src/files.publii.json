@@ -112,17 +112,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0d475c83e022075927cb72c59bdfd553"
+        "md5": "c65dfdffb7f98c21dbb79d3ebc1ccf81"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5fe9131567457e40952aa74108994f4e"
+        "md5": "2cd033cabf8fbd1bbcdcaf8d0ff4c384"
     },
     {
         "path": "galerie.html",
         "type": "file",
-        "md5": "9b98fc7d1bb0dee18ede06684f355e97"
+        "md5": "e0617ee297573e7650c7581a8bbbe7bb"
     },
     {
         "path": "index.html",
@@ -257,7 +257,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "396ac47a170bada39a7b12fe8f53f140"
+        "md5": "06dcffc47fc8df34b270c169beb8bfa2"
     },
     {
         "path": "sitemap.xsl",
