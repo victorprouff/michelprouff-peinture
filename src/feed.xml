@@ -3,24 +3,24 @@
     <title>Michel Prouff - Peinture</title>
     <link href="https://test.victorprouff.fr/feed.xml" rel="self" />
     <link href="https://test.victorprouff.fr" />
-    <updated>2021-02-10T21:16:12+01:00</updated>
+    <updated>2021-02-16T22:46:00+01:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
     <id>https://test.victorprouff.fr</id>
 
     <entry>
-        <title>Galerie</title>
+        <title>Marines</title>
         <author>
             <name>Michel Prouff</name>
         </author>
-        <link href="https://test.victorprouff.fr/galerie.html"/>
-        <id>https://test.victorprouff.fr/galerie.html</id>
+        <link href="https://test.victorprouff.fr/marines.html"/>
+        <id>https://test.victorprouff.fr/marines.html</id>
 
-        <updated>2021-02-10T21:16:12+01:00</updated>
+        <updated>2021-02-16T22:45:04+01:00</updated>
             <summary>
                 <![CDATA[
-                     fregerg 
+                     
                 ]]>
             </summary>
         <content type="html">
@@ -29,38 +29,128 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/1475046-robot-hd.jpg" data-size="2560x1440">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/1475046-robot-hd-thumbnail.jpg" height="432" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9028.jpg" data-size="4499x2999">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9028-thumbnail.jpg" height="512" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/black-abstract-wallpapers-271.jpg" data-size="2560x1440">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/black-abstract-wallpapers-271-thumbnail.jpg" height="432" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9030.jpg" data-size="3837x2878">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9030-thumbnail.jpg" height="576" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/hebus_1920x1080_1524326093_8646.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/hebus_1920x1080_1524326093_8646-thumbnail.jpg" height="432" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9040.jpg" data-size="3186x3982">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9040-thumbnail.jpg" height="960" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Paysages</title>
+        <author>
+            <name>Michel Prouff</name>
+        </author>
+        <link href="https://test.victorprouff.fr/paysages.html"/>
+        <id>https://test.victorprouff.fr/paysages.html</id>
+
+        <updated>2021-02-16T22:44:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Arbres, 24 x 25 Mes beaux champs encore des arbres 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="4">
+      <figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9034.jpg" data-size="4168x2779">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9034-thumbnail.jpg" height="512" width="768" alt="Alt arbres" />
+      </a>
+      <figcaption>Arbres, 24 x 25</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9037.jpg" data-size="3854x2753">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9037-thumbnail.jpg" height="549" width="768" alt="Alt champs" />
+      </a>
+      <figcaption>Mes beaux champs</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9035.jpg" data-size="4344x3103">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9035-thumbnail.jpg" height="549" width="768" alt="coucou alt" />
+      </a>
+      <figcaption>encore des arbres</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9038.jpg" data-size="4133x2952">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9038-thumbnail.jpg" height="549" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/hebus_1920x1080_1524326133_6904.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/hebus_1920x1080_1524326133_6904-thumbnail.jpg" height="432" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9033.jpg" data-size="2863x4294">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9033-thumbnail.jpg" height="1152" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_8662.jpg" data-size="5134x3423">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_8662-thumbnail.jpg" height="512" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9039.jpg" data-size="4385x3132">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9039-thumbnail.jpg" height="549" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/mr-robot-wallpaper-2.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/mr-robot-wallpaper-2-thumbnail.jpg" height="432" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9026.jpg" data-size="3183x4775">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9026-thumbnail.jpg" height="1152" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nature morte</title>
+        <author>
+            <name>Michel Prouff</name>
+        </author>
+        <link href="https://test.victorprouff.fr/galerie.html"/>
+        <id>https://test.victorprouff.fr/galerie.html</id>
+
+        <updated>2021-02-16T22:46:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9020.jpg" data-size="4139x3104">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9020-thumbnail.jpg" height="576" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/mr-robot-wallpaper-3.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/mr-robot-wallpaper-3-thumbnail.jpg" height="432" width="768" alt="" />
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9021.jpg" data-size="4210x3158">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9021-thumbnail.jpg" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9023.jpg" data-size="3157x3157">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9023-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9024.jpg" data-size="4080x3060">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9024-thumbnail.jpg" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9032.jpg" data-size="2648x3972">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9032-thumbnail.jpg" height="1152" width="768" alt="" />
       </a>
       
     </figure>
@@ -68,7 +158,7 @@
   </div>
 
   <p>
-    fregerg
+    
   </p>
             ]]>
         </content>
