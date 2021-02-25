@@ -532,7 +532,8 @@ a.pswp__share--download:hover {
 	text-align: center;
 	max-width: calc(38rem + 8%);
 	margin: 0 auto;
-	font-size: 13px;
+	margin-top: 30px;
+	font-size: 25px;
 	padding: 1rem 4%;
 	line-height: 20px;
 	color: #CCC;
