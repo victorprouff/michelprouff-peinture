@@ -3,7 +3,7 @@
     <title>Michel Prouff - Peinture</title>
     <link href="https://test.victorprouff.fr/feed.xml" rel="self" />
     <link href="https://test.victorprouff.fr" />
-    <updated>2021-02-25T19:37:49+01:00</updated>
+    <updated>2021-02-25T23:26:29+01:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://test.victorprouff.fr/marines.html"/>
         <id>https://test.victorprouff.fr/marines.html</id>
 
-        <updated>2021-02-21T18:34:44+01:00</updated>
+        <updated>2021-02-25T23:07:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://test.victorprouff.fr/media/posts/4/IMG_9030.jpg" alt="" />
+                        <img src="https://test.victorprouff.fr/media/posts/4/IMG_9166.jpg" alt="" />
                      Concarneau - Huile sur panneau - 46 x 33 La&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://test.victorprouff.fr/media/posts/4/IMG_9030.jpg" alt="" />
+                    <img src="https://test.victorprouff.fr/media/posts/4/IMG_9166.jpg" alt="" />
                 
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
@@ -94,16 +94,18 @@
         <link href="https://test.victorprouff.fr/paysages.html"/>
         <id>https://test.victorprouff.fr/paysages.html</id>
 
-        <updated>2021-02-21T19:23:35+01:00</updated>
+        <updated>2021-02-25T23:26:20+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://test.victorprouff.fr/media/posts/3/IMG_9043.jpg" alt="" />
                      L'église Leuville sur orge - Huile sur panneau - 46&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://test.victorprouff.fr/media/posts/3/IMG_9043.jpg" alt="" />
                 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/3/gallery/IMG_9047.jpg" data-size="3122x3805">
@@ -259,16 +261,18 @@
         <link href="https://test.victorprouff.fr/galerie.html"/>
         <id>https://test.victorprouff.fr/galerie.html</id>
 
-        <updated>2021-02-25T19:37:49+01:00</updated>
+        <updated>2021-02-25T23:26:29+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://test.victorprouff.fr/media/posts/2/IMG_9189.jpg" alt="" />
                      Le violon - Huile sur toile - 60 x 50&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://test.victorprouff.fr/media/posts/2/IMG_9189.jpg" alt="" />
                 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9183.jpg" data-size="3049x3769">
