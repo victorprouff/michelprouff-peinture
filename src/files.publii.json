@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0deaaf1ca25d4f885a59bdd7cc511b04"
+        "md5": "8c491da8f8144608c32a6c2ab815f1b8"
     },
     {
         "path": "assets",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "53483af915bafb9fe87700d6230eb97d"
+        "md5": "69040d32ff0ee54b2bf06a67093536c9"
     },
     {
         "path": "feed.json",
@@ -122,17 +122,17 @@
     {
         "path": "galerie.html",
         "type": "file",
-        "md5": "1299ad00f450bd47e1f1f836d15c9871"
+        "md5": "4fff37968c308cfa321d98e516b0fa58"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "647bcac85a8b925723f318e0cbd044cd"
+        "md5": "19b73fa520ef294bbec61029d7c1dc50"
     },
     {
         "path": "marines.html",
         "type": "file",
-        "md5": "e121844b08450424dd38ff46bf2e71c6"
+        "md5": "d7e2ef301ef2e79c5d3d1c2f985e2dc4"
     },
     {
         "path": "media",
@@ -922,27 +922,17 @@
     {
         "path": "paysages.html",
         "type": "file",
-        "md5": "7efbbd956f48a087ae11a41f1bf83bbc"
+        "md5": "1a45584d79da759c86b9b09d8ac39a6b"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "75a8c4aa0394144e7eac6f9aa8472634"
+        "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "2357cfc655ae6217e4667cdd8b35c106"
-    },
-    {
-        "path": "sitemap.xml",
-        "type": "file",
-        "md5": "f6d857be6434645c2998e4afa9cb3f53"
-    },
-    {
-        "path": "sitemap.xsl",
-        "type": "file",
-        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+        "md5": "3540d8867844b152d71d710574ea57c2"
     },
     {
         "path": "tags",
@@ -952,6 +942,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f8bd863d119af094b3e6f8bfcac6e55e"
+        "md5": "bcb8207d96ca1714f50e7c58bccef06b"
     }
 ]
