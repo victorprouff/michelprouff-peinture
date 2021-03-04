@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "afbfb67fac7c6342a5d5cdbe75c4e6c3"
+        "md5": "0deaaf1ca25d4f885a59bdd7cc511b04"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "b6458f367c3b5a7de480df69b40898da"
+        "md5": "6d90ada2169c38a9ebd905203b6f2e5d"
     },
     {
         "path": "assets/js",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "46e47846ed1b101bce13dc3417867ccf"
+        "md5": "53483af915bafb9fe87700d6230eb97d"
     },
     {
         "path": "feed.json",
@@ -122,17 +122,17 @@
     {
         "path": "galerie.html",
         "type": "file",
-        "md5": "90acc2a7127ffd22807e29031586b56b"
+        "md5": "1299ad00f450bd47e1f1f836d15c9871"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1972426df83b47043bc2b540596e3713"
+        "md5": "647bcac85a8b925723f318e0cbd044cd"
     },
     {
         "path": "marines.html",
         "type": "file",
-        "md5": "a766a7094aedb7bbb6fc68fbb0303981"
+        "md5": "e121844b08450424dd38ff46bf2e71c6"
     },
     {
         "path": "media",
@@ -922,7 +922,7 @@
     {
         "path": "paysages.html",
         "type": "file",
-        "md5": "84992ce35f2470eea8d24c55093e37e7"
+        "md5": "7efbbd956f48a087ae11a41f1bf83bbc"
     },
     {
         "path": "robots.txt",
@@ -932,7 +932,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "b93cfb5d6f89fd669a386159ecf586a6"
+        "md5": "2357cfc655ae6217e4667cdd8b35c106"
     },
     {
         "path": "sitemap.xml",
@@ -952,6 +952,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "482e35e6dba6f279ad59252c65c8f987"
+        "md5": "f8bd863d119af094b3e6f8bfcac6e55e"
     }
 ]
