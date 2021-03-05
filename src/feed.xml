@@ -3,7 +3,7 @@
     <title>Michel Prouff - Peinture</title>
     <link href="https://test.victorprouff.fr/feed.xml" rel="self" />
     <link href="https://test.victorprouff.fr" />
-    <updated>2021-02-25T23:26:29+01:00</updated>
+    <updated>2021-03-05T19:36:32+01:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://test.victorprouff.fr/marines.html"/>
         <id>https://test.victorprouff.fr/marines.html</id>
 
-        <updated>2021-02-25T23:07:00+01:00</updated>
+        <updated>2021-03-05T19:35:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://test.victorprouff.fr/media/posts/4/IMG_9166.jpg" alt="" />
@@ -80,6 +80,16 @@
         <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9179-thumbnail.jpg" height="301" width="768" alt="Les barques à Saint Cado - Huile sur panneau - 41 x 16" />
       </a>
       <figcaption>Les barques à Saint Cado - Huile sur panneau - 41 x 16</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9210.jpg" data-size="4718x2773">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9210-thumbnail.jpg" height="451" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9211.jpg" data-size="4543x2620">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9211-thumbnail.jpg" height="443" width="768" alt="" />
+      </a>
+      
     </figure>
     </div>
   </div>
@@ -261,7 +271,7 @@
         <link href="https://test.victorprouff.fr/galerie.html"/>
         <id>https://test.victorprouff.fr/galerie.html</id>
 
-        <updated>2021-02-25T23:26:29+01:00</updated>
+        <updated>2021-03-05T19:36:32+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://test.victorprouff.fr/media/posts/2/IMG_9189.jpg" alt="" />
@@ -290,11 +300,6 @@
       </a>
       <figcaption>Le maïs - Huile sur toile - 46 x 38</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9191.jpg" data-size="4113x3191">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9191-thumbnail.jpg" height="596" width="768" alt="Le petit déjeuner - Huile sur toile - 35 x 27" />
-      </a>
-      <figcaption>Le petit déjeuner - Huile sur toile - 35 x 27</figcaption>
-    </figure><figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9195.jpg" data-size="3228x3241">
         <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9195-thumbnail.jpg" height="771" width="768" alt="Le hou - Huile sur toile - 30 x 30" />
       </a>
@@ -319,6 +324,21 @@
         <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9203-thumbnail.jpg" height="787" width="768" alt="Les trois kakis - Huile sur toile - 20 x 20" />
       </a>
       <figcaption>Les trois kakis - Huile sur toile - 20 x 20</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9205.jpg" data-size="4175x3190">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9205-thumbnail.jpg" height="587" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9208.jpg" data-size="4062x3147">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9208-thumbnail.jpg" height="595" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9209.jpg" data-size="3957x3035">
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9209-thumbnail.jpg" height="589" width="768" alt="" />
+      </a>
+      
     </figure>
     </div>
   </div>
