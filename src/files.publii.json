@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "043cef87ddcb0f8fb981ad5e677b62fb"
+        "md5": "f2dd56502ec3fbcc23bf1742c5b41a72"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "6d90ada2169c38a9ebd905203b6f2e5d"
+        "md5": "6f719b9fb18251e32a10dc425a88ea29"
     },
     {
         "path": "assets/js",
@@ -107,32 +107,32 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "2c080ed962b1554c162167f593c167c3"
+        "md5": "1d6f462b311ab17e763999b6488020f4"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4f2f7b6a2726f11888dd91894fdb7592"
+        "md5": "cd004426fd764e508e73b9614795cff4"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "70a1acbb369bfbf10f4c1dea0faa7525"
+        "md5": "643e97607f7881aa9eb0ea1c54c6480f"
     },
     {
         "path": "galerie.html",
         "type": "file",
-        "md5": "9eca14c86446d541af55b33c1d5741dd"
+        "md5": "6981b184949b0e7121e8f5e9653441c8"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "67633e76ca82dd056619cff316acf7d2"
+        "md5": "58ed79457ed2dc7b8332323ec28cc134"
     },
     {
         "path": "marines.html",
         "type": "file",
-        "md5": "5505e5720e1b0c4e2bf4fb7382d6ad06"
+        "md5": "61f33304c442233a855d4e919fabda6f"
     },
     {
         "path": "media",
@@ -912,7 +912,7 @@
     {
         "path": "paysages.html",
         "type": "file",
-        "md5": "9a5a6f37fc707aa0331fe95e1a164d31"
+        "md5": "1a2af01fc452b338f3cbee99c58c3112"
     },
     {
         "path": "robots.txt",
@@ -922,7 +922,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "0f528af2202f6bdc0ff711cbb7fbb14e"
+        "md5": "afa975425b41bf7482d84a41ab5462b9"
     },
     {
         "path": "tags",
@@ -932,6 +932,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "dd99625d75c35144ad1c93926e76b76e"
+        "md5": "8d415a115d4e700d39a0da22d22fdfdb"
     }
 ]
