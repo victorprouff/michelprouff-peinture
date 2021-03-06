@@ -3,7 +3,7 @@
     <title>Michel Prouff - Peinture</title>
     <link href="https://test.victorprouff.fr/feed.xml" rel="self" />
     <link href="https://test.victorprouff.fr" />
-    <updated>2021-03-05T19:36:32+01:00</updated>
+    <updated>2021-03-06T17:10:26+01:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://test.victorprouff.fr/marines.html"/>
         <id>https://test.victorprouff.fr/marines.html</id>
 
-        <updated>2021-03-05T19:35:18+01:00</updated>
+        <updated>2021-03-06T17:05:50+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://test.victorprouff.fr/media/posts/4/IMG_9166.jpg" alt="" />
@@ -82,14 +82,14 @@
       <figcaption>Les barques à Saint Cado - Huile sur panneau - 41 x 16</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9210.jpg" data-size="4718x2773">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9210-thumbnail.jpg" height="451" width="768" alt="" />
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9210-thumbnail.jpg" height="451" width="768" alt="Fouras, la grande plage - Huile sur panneau - 46 x 27" />
       </a>
-      
+      <figcaption>Fouras, la grande plage - Huile sur panneau - 46 x 27</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9211.jpg" data-size="4543x2620">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9211-thumbnail.jpg" height="443" width="768" alt="" />
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/4/gallery/IMG_9211-thumbnail.jpg" height="443" width="768" alt="L’île Madame - Huile sur panneau - 41 x 24" />
       </a>
-      
+      <figcaption>L’île Madame - Huile sur panneau - 41 x 24</figcaption>
     </figure>
     </div>
   </div>
@@ -271,16 +271,16 @@
         <link href="https://test.victorprouff.fr/galerie.html"/>
         <id>https://test.victorprouff.fr/galerie.html</id>
 
-        <updated>2021-03-05T19:36:32+01:00</updated>
+        <updated>2021-03-06T17:10:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://test.victorprouff.fr/media/posts/2/IMG_9189.jpg" alt="" />
+                        <img src="https://test.victorprouff.fr/media/posts/2/IMG_9205-2.jpg" alt="" />
                      Le violon - Huile sur toile - 60 x 50&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://test.victorprouff.fr/media/posts/2/IMG_9189.jpg" alt="" />
+                    <img src="https://test.victorprouff.fr/media/posts/2/IMG_9205-2.jpg" alt="" />
                 
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
@@ -326,19 +326,19 @@
       <figcaption>Les trois kakis - Huile sur toile - 20 x 20</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9205.jpg" data-size="4175x3190">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9205-thumbnail.jpg" height="587" width="768" alt="" />
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9205-thumbnail.jpg" height="587" width="768" alt="Le raisin noir - Huile sur toile - 35 x 27" />
       </a>
-      
+      <figcaption>Le raisin noir - Huile sur toile - 35 x 27</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9208.jpg" data-size="4062x3147">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9208-thumbnail.jpg" height="595" width="768" alt="" />
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9208-thumbnail.jpg" height="595" width="768" alt="Le petit déjeuner - Huile sur toile - 35 x 27" />
       </a>
-      
+      <figcaption>Le petit déjeuner - Huile sur toile - 35 x 27</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9209.jpg" data-size="3957x3035">
-        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9209-thumbnail.jpg" height="589" width="768" alt="" />
+        <img loading="lazy" src="https://test.victorprouff.fr/media/posts/2/gallery/IMG_9209-thumbnail.jpg" height="589" width="768" alt="Les huîtres - Huile sur panneau - 35 x 27" />
       </a>
-      
+      <figcaption>Les huîtres - Huile sur panneau - 35 x 27</figcaption>
     </figure>
     </div>
   </div>
