@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c93d27ac458ea9f58a54584b8c649ac1"
+        "md5": "971121948b6f46158d002be3ebbf57ef"
     },
     {
         "path": "assets",
@@ -107,32 +107,42 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "90582a1ab182829eb3eb3dd03ce32af7"
+        "md5": "a4126e23838e2bed3fe1f4193584dd8c"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cd004426fd764e508e73b9614795cff4"
+        "md5": "40e0930d94a944804afe844acdce478c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "643e97607f7881aa9eb0ea1c54c6480f"
+        "md5": "8fbcf99cc521bacb1cb69f7fd248d43f"
     },
     {
-        "path": "galerie.html",
+        "path": "galerie",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/galerie/index.html",
         "type": "file",
-        "md5": "d7bc3f20e596d21ec6ce81db3c038bb3"
+        "md5": "336e946a48e63baad0ab3a9a80608834"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8d68d60a3d46e27f4e402d02eb36a58a"
+        "md5": "abc8decdcbb6292b05aed30b7a4233ec"
     },
     {
-        "path": "marines.html",
+        "path": "marines",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/marines/index.html",
         "type": "file",
-        "md5": "84b0a5cfd5b6ab05f5e014d6e4ec868b"
+        "md5": "d2a8b1d83152383d8f27211f21a6199a"
     },
     {
         "path": "media",
@@ -910,19 +920,34 @@
         "md5": false
     },
     {
-        "path": "paysages.html",
+        "path": "paysages",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/paysages/index.html",
         "type": "file",
-        "md5": "525653bb4562ffc78d6586a6260af873"
+        "md5": "ee9ddfad0576ab05ead465d62defd5a5"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
+        "md5": "1839b8817dd68017372090e9017f60d3"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "2b8f04555ba19d4a5973ed602a8c5bb0"
+        "md5": "8bddefcad76b01194126f0dcd3a69369"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "28b283616056fe035ec1b9d848b11439"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "tags",
@@ -932,6 +957,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "16aa15ab1d3980eae7cf04dd20d09931"
+        "md5": "303118cf36f375eb01f699e410602980"
     }
 ]
