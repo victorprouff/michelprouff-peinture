@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Michel Prouff - peinture</title>
+    <title>Michel Prouff - Peinture</title>
     <link href="https://peinture.michelprouff.fr/feed.xml" rel="self" />
     <link href="https://peinture.michelprouff.fr" />
-    <updated>2021-03-06T17:29:48+01:00</updated>
+    <updated>2021-03-07T11:09:25+01:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
@@ -236,16 +236,16 @@
         <link href="https://peinture.michelprouff.fr/galerie/"/>
         <id>https://peinture.michelprouff.fr/galerie/</id>
 
-        <updated>2021-03-06T17:27:08+01:00</updated>
+        <updated>2021-03-07T11:09:25+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://peinture.michelprouff.fr/media/posts/2/IMG_9205-2.jpg" alt="" />
+                        <img src="https://peinture.michelprouff.fr/media/posts/2/IMG_9209.jpg" alt="" />
                      Le violon - Huile sur toile - 60 x 50&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://peinture.michelprouff.fr/media/posts/2/IMG_9205-2.jpg" alt="" />
+                    <img src="https://peinture.michelprouff.fr/media/posts/2/IMG_9209.jpg" alt="" />
                 
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
