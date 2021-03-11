@@ -107,17 +107,17 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "c101cee6781847167351a19aa427dd79"
+        "md5": "25b1c70bafaa9e81f2797af5ad16196a"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0cf38335a8befe0c3ea3629d1e7023f6"
+        "md5": "bfcac9aee8f549b0e2e3f8602376486e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7705a4963579fee7e8873a22280a9924"
+        "md5": "46c75d7006f67afba3b43348fcadad35"
     },
     {
         "path": "galerie",
@@ -132,7 +132,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1561c42539812d594975c649d9a05967"
+        "md5": "f23f004b65ea36aca53370e02869f07e"
     },
     {
         "path": "marines",
@@ -403,6 +403,11 @@
         "path": "/media/posts/3/IMG_9047.jpg",
         "type": "file",
         "md5": "e0dbe0ce4a8c3e3020010ce6858fa70d"
+    },
+    {
+        "path": "/media/posts/3/IMG_9142.jpg",
+        "type": "file",
+        "md5": "4ae456a02ab56f9667ee2fead2f1e095"
     },
     {
         "path": "media/posts/3/gallery",
@@ -705,6 +710,41 @@
         "md5": "d1ba73ec3c2268380c42721cbb76ce6a"
     },
     {
+        "path": "/media/posts/3/responsive/IMG_9142-2xl.jpg",
+        "type": "file",
+        "md5": "ba3fac040c73b6bb600b88017baa66d8"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_9142-lg.jpg",
+        "type": "file",
+        "md5": "1dcd37c787ec943cbf4e5a7ea75d6038"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_9142-md.jpg",
+        "type": "file",
+        "md5": "b1e44776c02de7a9cf901548cc73ef6f"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_9142-sm.jpg",
+        "type": "file",
+        "md5": "265764c30b0fd4c4b09bf4ba906fe83a"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_9142-sm2.jpg",
+        "type": "file",
+        "md5": "1de956acf3f07b84843d3198cacc2a3c"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_9142-xl.jpg",
+        "type": "file",
+        "md5": "5e59bc1b8255c97c0eac03d2d4322021"
+    },
+    {
+        "path": "/media/posts/3/responsive/IMG_9142-xs.jpg",
+        "type": "file",
+        "md5": "2ae0f0caa69d1e4da1d8f6cea2624a0e"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -920,6 +960,11 @@
         "md5": false
     },
     {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
         "path": "paysages",
         "type": "directory",
         "md5": false
@@ -927,7 +972,7 @@
     {
         "path": "/paysages/index.html",
         "type": "file",
-        "md5": "c3051316db7ad136538c7f6ac1a9d292"
+        "md5": "2e2f9f8e4056c50fd738096f981e71d4"
     },
     {
         "path": "robots.txt",
@@ -942,7 +987,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b8901441ceb8a5d1daf07ee84d93f9f5"
+        "md5": "770beb9f7d4788c505742494ed6facd1"
     },
     {
         "path": "sitemap.xsl",
