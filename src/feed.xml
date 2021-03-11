@@ -3,7 +3,7 @@
     <title>Michel Prouff - Peinture</title>
     <link href="https://peinture.michelprouff.fr/feed.xml" rel="self" />
     <link href="https://peinture.michelprouff.fr" />
-    <updated>2021-03-11T19:18:09+01:00</updated>
+    <updated>2021-03-11T19:34:55+01:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
@@ -99,7 +99,7 @@
         <link href="https://peinture.michelprouff.fr/paysages/"/>
         <id>https://peinture.michelprouff.fr/paysages/</id>
 
-        <updated>2021-03-11T19:18:09+01:00</updated>
+        <updated>2021-03-11T19:34:55+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://peinture.michelprouff.fr/media/posts/3/IMG_9142.jpg" alt="" />
@@ -213,15 +213,15 @@
       </a>
       <figcaption>L'église de Moisenay - Huile sur panneau - 33 x 19</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9154.jpg" data-size="4320x2728">
-        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9154-thumbnail.jpg" height="485" width="768" alt="Le champs de coquelicots - Huile sur panneau - 35 x 22" />
-      </a>
-      <figcaption>Le champs de coquelicots - Huile sur panneau - 35 x 22</figcaption>
-    </figure><figure class="gallery__item">
       <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9156.jpg" data-size="2503x4624">
         <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9156-thumbnail.jpg" height="1419" width="768" alt="Impasse de Sainte Sophie à Fouras - Huile sur panneau - 35 x 19" />
       </a>
       <figcaption>Impasse de Sainte Sophie à Fouras - Huile sur panneau - 35 x 19</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9154.jpg" data-size="4320x2728">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9154-thumbnail.jpg" height="485" width="768" alt="Le champs de coquelicots - Huile sur panneau - 35 x 22" />
+      </a>
+      <figcaption>Le champs de coquelicots - Huile sur panneau - 35 x 22</figcaption>
     </figure>
     </div>
   </div>

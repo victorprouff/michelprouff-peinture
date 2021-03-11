@@ -112,12 +112,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "bfcac9aee8f549b0e2e3f8602376486e"
+        "md5": "2c1b9c5d5f5a10b2532b7ef54753ef7d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "46c75d7006f67afba3b43348fcadad35"
+        "md5": "f5136e501911f770cba872b6f7798daf"
     },
     {
         "path": "galerie",
@@ -972,7 +972,7 @@
     {
         "path": "/paysages/index.html",
         "type": "file",
-        "md5": "2e2f9f8e4056c50fd738096f981e71d4"
+        "md5": "de97c50ed0211aaf22ad0624351ee52f"
     },
     {
         "path": "robots.txt",
@@ -987,7 +987,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "770beb9f7d4788c505742494ed6facd1"
+        "md5": "984554f752b48a0667010014221fc1d5"
     },
     {
         "path": "sitemap.xsl",
