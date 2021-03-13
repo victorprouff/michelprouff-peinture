@@ -112,12 +112,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2c1b9c5d5f5a10b2532b7ef54753ef7d"
+        "md5": "be63c14e7e72f35763d48c0c969f9f16"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f5136e501911f770cba872b6f7798daf"
+        "md5": "580198a5adfae79e7dc58cc9da198625"
     },
     {
         "path": "galerie",
@@ -495,14 +495,14 @@
         "md5": "ba0b5cfda40adf566ee30719d79d1864"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9056-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9056-2-thumbnail.jpg",
         "type": "file",
-        "md5": "8f52c7df090e06c6b1339336ae2af438"
+        "md5": "abe1f9b1e1c838d651d0174bcc4c3f8e"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9056.jpg",
+        "path": "/media/posts/3/gallery/IMG_9056-2.jpg",
         "type": "file",
-        "md5": "283c58d9bcb8206e15f5b0e130b70639"
+        "md5": "ae32306a61a1c810000e50ff79639bd2"
     },
     {
         "path": "/media/posts/3/gallery/IMG_9057-thumbnail.jpg",
@@ -972,7 +972,7 @@
     {
         "path": "/paysages/index.html",
         "type": "file",
-        "md5": "de97c50ed0211aaf22ad0624351ee52f"
+        "md5": "418990c4278aa250ebb6886cfc69ff71"
     },
     {
         "path": "robots.txt",
@@ -987,7 +987,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "984554f752b48a0667010014221fc1d5"
+        "md5": "7fa9abf6f933d46046a9fc4a6f879109"
     },
     {
         "path": "sitemap.xsl",
