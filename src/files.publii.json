@@ -107,22 +107,22 @@
     {
         "path": "/authors/michel-prouff/index.html",
         "type": "file",
-        "md5": "5e27bfbd09a92f6025eaa5fb8e0f572e"
+        "md5": "3b8daf1361bfc902191999887be77953"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8db24d132ec99cba67507a3701b89035"
+        "md5": "f9f14560610c5e9a5327c9cffdbbfdf2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3a0c0dcd4e63b33c712ec6f74c930b63"
+        "md5": "ea18873333fdf22fa2c32111499e79dc"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f72c972abec4856ca29aee70a5656a81"
+        "md5": "5dd7a94216b07d6796f149ca1188e55f"
     },
     {
         "path": "marines",
@@ -132,20 +132,10 @@
     {
         "path": "/marines/index.html",
         "type": "file",
-        "md5": "e6608f640261680a16be04ff19e92c0e"
+        "md5": "b34b6608a4bcc1ec1eb469c9adc6f76d"
     },
     {
         "path": "media",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/authors",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/files",
         "type": "directory",
         "md5": false
     },
@@ -940,21 +930,6 @@
         "md5": "3ce739c27d942ccef7b7080e319e6db5"
     },
     {
-        "path": "media/tags",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/website",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/website/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
         "path": "nature-morte",
         "type": "directory",
         "md5": false
@@ -962,7 +937,7 @@
     {
         "path": "/nature-morte/index.html",
         "type": "file",
-        "md5": "daf53396b9364a4a937b1c77b115f637"
+        "md5": "62e42a850d03b7fa0ffdee4db99c3c6c"
     },
     {
         "path": "paysages",
@@ -972,7 +947,7 @@
     {
         "path": "/paysages/index.html",
         "type": "file",
-        "md5": "5c243fbd9ef3aaf4bad8ba9358c8d350"
+        "md5": "10c1f887483b384d5567b085e6eeec5c"
     },
     {
         "path": "robots.txt",
@@ -987,7 +962,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d17e3faebabf9d9d9be5ef516909e0c3"
+        "md5": "437a2e706d6a1bde87af21f9b0419de1"
     },
     {
         "path": "sitemap.xsl",
