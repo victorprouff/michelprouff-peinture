@@ -10,19 +10,19 @@
     },
     "items": [
         {
-            "id": "https://peinture.michelprouff.fr/serie-fleurs/",
-            "url": "https://peinture.michelprouff.fr/serie-fleurs/",
+            "id": "https://peinture.michelprouff.fr/serie-fleurs-2/",
+            "url": "https://peinture.michelprouff.fr/serie-fleurs-2/",
             "title": "Série Fleurs",
             "summary": " Fleurs d'automne - Huile sur panneau - 46 x 38&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9215.jpg\" data-size=\"3070x3765\"><img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9215-thumbnail.jpg\" alt=\"Fleurs d'automne - Huile sur panneau - 46 x 38\" width=\"768\" height=\"942\"></a>\n<figcaption>Fleurs d'automne - Huile sur panneau - 46 x 38</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9224.jpg\" data-size=\"3035x4104\"><img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9224-thumbnail.jpg\" alt=\"Rose jaune - Huile sur panneau - 35 x 27\" width=\"768\" height=\"1039\"></a>\n<figcaption>Rose jaune - Huile sur panneau - 35 x 27</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9229.jpg\" data-size=\"3002x3847\"><img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9229-thumbnail.jpg\" alt=\"Coquelicot - Huile sur toile - 24 x 19\" width=\"768\" height=\"984\"></a>\n<figcaption>Coquelicot - Huile sur toile - 24 x 19</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9231.jpg\" data-size=\"3002x3797\"><img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9231-thumbnail.jpg\" alt=\"Le mimosa - Huile sur panneau - 24 x 19\" width=\"768\" height=\"971\"></a>\n<figcaption>Le mimosa - Huile sur panneau - 24 x 19</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9243.jpg\" data-size=\"3150x4134\"><img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9243-thumbnail.jpg\" alt=\"Les jonquilles - Huile sur papier toilé - 35 x 27\" width=\"768\" height=\"1008\"></a>\n<figcaption>Les jonquilles - Huile sur papier toilé - 35 x 27</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9222.jpg\" data-size=\"3041x3679\"><img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/5/gallery/IMG_9222-thumbnail.jpg\" alt=\"Les lilas - Huile sur panneau - 46 x 38\" width=\"768\" height=\"929\"></a>\n<figcaption>Les lilas - Huile sur panneau - 46 x 38</figcaption>\n</figure>\n</div></div>",
-            "image": "https://peinture.michelprouff.fr/media/posts/5/IMG_9224.jpg",
+            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9215.jpg\" data-size=\"3070x3765\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9215-thumbnail.jpg\" height=\"942\" width=\"768\" alt=\"Fleurs d'automne - Huile sur panneau - 46 x 38\" />\n      </a>\n      <figcaption>Fleurs d'automne - Huile sur panneau - 46 x 38</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9224.jpg\" data-size=\"3035x4104\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9224-thumbnail.jpg\" height=\"1039\" width=\"768\" alt=\"Rose jaune - Huile sur panneau - 35 x 27\" />\n      </a>\n      <figcaption>Rose jaune - Huile sur panneau - 35 x 27</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9229.jpg\" data-size=\"3002x3847\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9229-thumbnail.jpg\" height=\"984\" width=\"768\" alt=\"Coquelicot - Huile sur toile - 24 x 19\" />\n      </a>\n      <figcaption>Coquelicot - Huile sur toile - 24 x 19</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9231.jpg\" data-size=\"3002x3797\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9231-thumbnail.jpg\" height=\"971\" width=\"768\" alt=\"Le mimosa - Huile sur panneau - 24 x 19\" />\n      </a>\n      <figcaption>Le mimosa - Huile sur panneau - 24 x 19</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9243.jpg\" data-size=\"3150x4134\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9243-thumbnail.jpg\" height=\"1008\" width=\"768\" alt=\"Les jonquilles - Huile sur papier toilé - 35 x 27\" />\n      </a>\n      <figcaption>Les jonquilles - Huile sur papier toilé - 35 x 27</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9222.jpg\" data-size=\"3041x3679\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9222-thumbnail.jpg\" height=\"929\" width=\"768\" alt=\"Les lilas - Huile sur panneau - 46 x 38\" />\n      </a>\n      <figcaption>Les lilas - Huile sur panneau - 46 x 38</figcaption>\n    </figure>\n    </div>\n  </div>",
+            "image": "https://peinture.michelprouff.fr/media/posts/6/IMG_9225.jpg",
             "author": {
                 "name": "Michel Prouff"
             },
             "tags": [
             ],
-            "date_published": "2021-04-02T18:26:09+02:00",
-            "date_modified": "2021-04-02T18:26:21+02:00"
+            "date_published": "2021-04-04T19:06:09+02:00",
+            "date_modified": "2021-04-04T19:10:37+02:00"
         },
         {
             "id": "https://peinture.michelprouff.fr/marines/",
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2021-02-16T22:45:04+01:00",
-            "date_modified": "2021-03-28T19:34:41+02:00"
+            "date_modified": "2021-04-04T19:10:31+02:00"
         },
         {
             "id": "https://peinture.michelprouff.fr/paysages/",
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2021-02-16T21:21:27+01:00",
-            "date_modified": "2021-04-02T19:39:22+02:00"
+            "date_modified": "2021-04-04T19:10:12+02:00"
         },
         {
             "id": "https://peinture.michelprouff.fr/nature-morte/",
@@ -67,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2021-02-09T19:11:05+01:00",
-            "date_modified": "2021-03-28T19:35:49+02:00"
+            "date_modified": "2021-04-04T19:10:25+02:00"
         }
     ]
 }
