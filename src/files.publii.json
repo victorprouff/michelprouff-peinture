@@ -112,12 +112,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "33c31ca6fba1a69a158f69768b3381b4"
+        "md5": "6196e54f4a7b30879424cdb9df18871d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9cdd05da5b28496c43fca19551eaae8e"
+        "md5": "fdf38f2b1764f04d6c733b74ff7f4e43"
     },
     {
         "path": "index.html",
@@ -132,7 +132,7 @@
     {
         "path": "/marines/index.html",
         "type": "file",
-        "md5": "9007915c640f891c7e44320ebfb9a2a0"
+        "md5": "40aba8b2dab58137d8f8aedc1d22d6c3"
     },
     {
         "path": "media",
@@ -153,11 +153,6 @@
         "path": "/media/posts/2/IMG_9197.jpg",
         "type": "file",
         "md5": "752d1d9bab0722965489a908b66acba1"
-    },
-    {
-        "path": "/media/posts/2/IMG_9205.jpg",
-        "type": "file",
-        "md5": "bacd4319b328545132ed189632d25995"
     },
     {
         "path": "/media/posts/2/IMG_9209.jpg",
@@ -200,6 +195,16 @@
         "md5": "aff6a41766807fb42d44373050da76c9"
     },
     {
+        "path": "/media/posts/2/gallery/IMG_9189-thumbnail.jpg",
+        "type": "file",
+        "md5": "232dc8f1bf5dcbd7c61ad34f81d200d6"
+    },
+    {
+        "path": "/media/posts/2/gallery/IMG_9189.jpg",
+        "type": "file",
+        "md5": "f98422004724325faefe29fc02b84173"
+    },
+    {
         "path": "/media/posts/2/gallery/IMG_9195-thumbnail.jpg",
         "type": "file",
         "md5": "3936c48fab9000630aad0a1c7855584d"
@@ -220,14 +225,14 @@
         "md5": "752d1d9bab0722965489a908b66acba1"
     },
     {
-        "path": "/media/posts/2/gallery/IMG_9199-thumbnail.jpg",
+        "path": "/media/posts/2/gallery/IMG_9199-2-thumbnail.jpg",
         "type": "file",
-        "md5": "5f7e3dfcf1d1f4c8106c0d1b901b182d"
+        "md5": "95908e919ddea94915f63929b3319bfb"
     },
     {
-        "path": "/media/posts/2/gallery/IMG_9199.jpg",
+        "path": "/media/posts/2/gallery/IMG_9199-2.jpg",
         "type": "file",
-        "md5": "7aa249bab78bc501734ad442756d1f95"
+        "md5": "d8379aa12512ee0f00cde8ddfe55bf79"
     },
     {
         "path": "/media/posts/2/gallery/IMG_9203-thumbnail.jpg",
@@ -238,16 +243,6 @@
         "path": "/media/posts/2/gallery/IMG_9203.jpg",
         "type": "file",
         "md5": "5c3ae29a29ba71f2f888fb7a1731be9a"
-    },
-    {
-        "path": "/media/posts/2/gallery/IMG_9205-thumbnail.jpg",
-        "type": "file",
-        "md5": "88749f039635fc94cbba500f452fc90a"
-    },
-    {
-        "path": "/media/posts/2/gallery/IMG_9205.jpg",
-        "type": "file",
-        "md5": "bacd4319b328545132ed189632d25995"
     },
     {
         "path": "/media/posts/2/gallery/IMG_9209-thumbnail.jpg",
@@ -300,41 +295,6 @@
         "md5": "4d81756a09d37cf0f042907659b3be3f"
     },
     {
-        "path": "/media/posts/2/responsive/IMG_9205-2xl.jpg",
-        "type": "file",
-        "md5": "1f0d92a3b3c98cb1c63f9480b0dbd11e"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_9205-lg.jpg",
-        "type": "file",
-        "md5": "7bac8b3f932deca77e9c30a386b480d5"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_9205-md.jpg",
-        "type": "file",
-        "md5": "88749f039635fc94cbba500f452fc90a"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_9205-sm.jpg",
-        "type": "file",
-        "md5": "71642e5372102c3e19c3237dc420c549"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_9205-sm2.jpg",
-        "type": "file",
-        "md5": "ba184073ada9cac981bd9a2eaccd302e"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_9205-xl.jpg",
-        "type": "file",
-        "md5": "5cd39937ab66f9438cfff34204318af1"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_9205-xs.jpg",
-        "type": "file",
-        "md5": "d3ebb585ae9586daec2fadfeb62a501a"
-    },
-    {
         "path": "/media/posts/2/responsive/IMG_9209-2xl.jpg",
         "type": "file",
         "md5": "8237ceb8eb925f62a56bdbc599029f20"
@@ -380,11 +340,6 @@
         "md5": "eb0d5c857eddded558780ecb7934520b"
     },
     {
-        "path": "/media/posts/3/IMG_9043.jpg",
-        "type": "file",
-        "md5": "a8e86277676aa6c7a13265fa0d2380fe"
-    },
-    {
         "path": "/media/posts/3/IMG_9047.jpg",
         "type": "file",
         "md5": "e0dbe0ce4a8c3e3020010ce6858fa70d"
@@ -400,14 +355,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9043-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9043-2-thumbnail.jpg",
         "type": "file",
-        "md5": "9023cdb9b6e1dc409aa7a772aea4e830"
+        "md5": "0b961404f9bb78fe1c0492b7197aeea8"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9043.jpg",
+        "path": "/media/posts/3/gallery/IMG_9043-2.jpg",
         "type": "file",
-        "md5": "6b83e66aa3c8671f896c5cbebbeb0386"
+        "md5": "97f6092a08e27c34a193a43122806d49"
     },
     {
         "path": "/media/posts/3/gallery/IMG_9044-thumbnail.jpg",
@@ -430,54 +385,44 @@
         "md5": "e0dbe0ce4a8c3e3020010ce6858fa70d"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9051-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9052-2-thumbnail.jpg",
         "type": "file",
-        "md5": "56e2758055312dff52e85fc3548644b2"
+        "md5": "2facbc1fde9f35ceb1a08628358b453a"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9051.jpg",
+        "path": "/media/posts/3/gallery/IMG_9052-2.jpg",
         "type": "file",
-        "md5": "bc669aa3f2856e0e9290c6cc178653ff"
+        "md5": "9ac91b84a99ee1a79b036db6088e9066"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9052-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9053-2-thumbnail.jpg",
         "type": "file",
-        "md5": "71ff99023bb938530194a309bd502eae"
+        "md5": "39330800ea30ea3a3cab788baf02fdc6"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9052.jpg",
+        "path": "/media/posts/3/gallery/IMG_9053-2.jpg",
         "type": "file",
-        "md5": "96dfa3ca78a7b81d6eeeb6aa1f5ed9ed"
+        "md5": "3ae629d6206919f03b4f3ae9a90c0021"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9053-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9054-2-thumbnail.jpg",
         "type": "file",
-        "md5": "79a6c0dafd85adfb09f3889a7dcc60c4"
+        "md5": "1cbe5d8a7f2fdcb6c6a520f53f61f508"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9053.jpg",
+        "path": "/media/posts/3/gallery/IMG_9054-2.jpg",
         "type": "file",
-        "md5": "4852ef3fc3e02271e69344d79c547838"
+        "md5": "2738747c641203fe20d1eb0592effee2"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9054-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9055-2-thumbnail.jpg",
         "type": "file",
-        "md5": "cc025446b58ce7f2b48bbee1297fc368"
+        "md5": "79e574243b2920bda0890e5c4f176485"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9054.jpg",
+        "path": "/media/posts/3/gallery/IMG_9055-2.jpg",
         "type": "file",
-        "md5": "93bb2354946c6b6892df1ed981de1099"
-    },
-    {
-        "path": "/media/posts/3/gallery/IMG_9055-thumbnail.jpg",
-        "type": "file",
-        "md5": "54a8fb68888326f449d92b97738da46f"
-    },
-    {
-        "path": "/media/posts/3/gallery/IMG_9055.jpg",
-        "type": "file",
-        "md5": "ba0b5cfda40adf566ee30719d79d1864"
+        "md5": "1ce14bd470a68c54fda7de8e88bbaca8"
     },
     {
         "path": "/media/posts/3/gallery/IMG_9057-thumbnail.jpg",
@@ -490,14 +435,24 @@
         "md5": "1a9dcf5d31f35dc2d7b42f40bf504822"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9135-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9058-thumbnail.jpg",
         "type": "file",
-        "md5": "a87948e49cdc8fa5f474e07cbe727791"
+        "md5": "ea7da284ba498fd81a7a895f69bc0d13"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9135.jpg",
+        "path": "/media/posts/3/gallery/IMG_9058.jpg",
         "type": "file",
-        "md5": "405173e83228737c609bf90c707f6135"
+        "md5": "01a98da933ce14b5e82bf2ec223be06f"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_9135-2-thumbnail.jpg",
+        "type": "file",
+        "md5": "bc14ff23acdd9b093bbbd0195fc29392"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_9135-2.jpg",
+        "type": "file",
+        "md5": "1e1978b07c3c6752e8d105d12786b22e"
     },
     {
         "path": "/media/posts/3/gallery/IMG_9137-thumbnail.jpg",
@@ -560,6 +515,16 @@
         "md5": "a3c819066babf698d1594042c860cbfe"
     },
     {
+        "path": "/media/posts/3/gallery/IMG_9153-thumbnail.jpg",
+        "type": "file",
+        "md5": "729322f25596a9ac437eb4c291700169"
+    },
+    {
+        "path": "/media/posts/3/gallery/IMG_9153.jpg",
+        "type": "file",
+        "md5": "8a25762008a0a70a2c825f491d8fed54"
+    },
+    {
         "path": "/media/posts/3/gallery/IMG_9154-thumbnail.jpg",
         "type": "file",
         "md5": "25d2dc066b70df8ae9b7b2e2882a99e2"
@@ -570,14 +535,14 @@
         "md5": "9886c1bdb4c3881ae9c299e616b46152"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9156-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9156-2-thumbnail.jpg",
         "type": "file",
-        "md5": "c879c733666bdbb1963c06b005441fc1"
+        "md5": "6fb035e265fbdfc7aa7c2632e81749f9"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9156.jpg",
+        "path": "/media/posts/3/gallery/IMG_9156-2.jpg",
         "type": "file",
-        "md5": "ca89cbeb4fa98eb9006213ed614cdb98"
+        "md5": "954ff4b205c5b1ba0331cbeeacc9ac18"
     },
     {
         "path": "/media/posts/3/gallery/IMG_9159-thumbnail.jpg",
@@ -590,24 +555,24 @@
         "md5": "b8a3e5d28c99e4430b504a6a5d2c4768"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9160-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9160-2-thumbnail.jpg",
         "type": "file",
-        "md5": "01c2233f2096b089d51497bdc402ff9d"
+        "md5": "289e1a2112104441cd583196fe5c47fa"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9160.jpg",
+        "path": "/media/posts/3/gallery/IMG_9160-2.jpg",
         "type": "file",
-        "md5": "14a9a4d71092c14a98c0f8164e9485e3"
+        "md5": "8a7a77c3dfa2facc83aef0284685bed0"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9244-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9244-2-thumbnail.jpg",
         "type": "file",
-        "md5": "a09ddd21eff73e8366451866a7aadc40"
+        "md5": "a2b4313332edbf3455dca7f98968b9a6"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9244.jpg",
+        "path": "/media/posts/3/gallery/IMG_9244-2.jpg",
         "type": "file",
-        "md5": "e31c3555678addf890a21d6e617e5585"
+        "md5": "429b756c38393aede506548500f5ab63"
     },
     {
         "path": "/media/posts/3/gallery/IMG_9260-thumbnail.jpg",
@@ -640,44 +605,29 @@
         "md5": "5fa5d124c9cd24835b38037b9835e094"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9266-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9266-2-thumbnail.jpg",
         "type": "file",
-        "md5": "793f8926911b6738d2512f24207e8974"
+        "md5": "8d611a0a619b6c7dd0563ce69d5400c5"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9266.jpg",
+        "path": "/media/posts/3/gallery/IMG_9266-2.jpg",
         "type": "file",
-        "md5": "9f43be3f4439cec7393f2fef39b817f9"
+        "md5": "334736930b204f293a3862a07c5eac74"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9268-thumbnail.jpg",
+        "path": "/media/posts/3/gallery/IMG_9269-2-thumbnail.jpg",
         "type": "file",
-        "md5": "199bd2373172471f06acc2053ca04b90"
+        "md5": "698009665fb84251ea31fe1fc73208e9"
     },
     {
-        "path": "/media/posts/3/gallery/IMG_9268.jpg",
+        "path": "/media/posts/3/gallery/IMG_9269-2.jpg",
         "type": "file",
-        "md5": "3395497cf02090f074fa589bac5e3149"
-    },
-    {
-        "path": "/media/posts/3/gallery/IMG_9269-thumbnail.jpg",
-        "type": "file",
-        "md5": "674ffe39ae1b98d99d6dc57a10cfbc96"
-    },
-    {
-        "path": "/media/posts/3/gallery/IMG_9269.jpg",
-        "type": "file",
-        "md5": "d2d930cad850462efc28c8374a1feac1"
+        "md5": "740a076fd49eea6ae111bcd310dcf919"
     },
     {
         "path": "media/posts/3/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-2xl.jpg",
-        "type": "file",
-        "md5": "623aa095e43ff9710691ae3f91228c4d"
     },
     {
         "path": "/media/posts/3/responsive/IMG_9043-3-2xl.jpg",
@@ -713,36 +663,6 @@
         "path": "/media/posts/3/responsive/IMG_9043-3-xs.jpg",
         "type": "file",
         "md5": "5672bef584a72b311ec45a1a8ded5f7c"
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-lg.jpg",
-        "type": "file",
-        "md5": "5b2f05519f7e6d333d5a3dde4a1d5e76"
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-md.jpg",
-        "type": "file",
-        "md5": "85b873546e5b7332c17c916579cfff8f"
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-sm.jpg",
-        "type": "file",
-        "md5": "25bee9fb2aa479e33ad78e7fee52c935"
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-sm2.jpg",
-        "type": "file",
-        "md5": "c76b0f10273a5e2d6f56d76a7147ca87"
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-xl.jpg",
-        "type": "file",
-        "md5": "4ffd06dd8154af75967824dff272709d"
-    },
-    {
-        "path": "/media/posts/3/responsive/IMG_9043-xs.jpg",
-        "type": "file",
-        "md5": "50658774614c5f90b9608e4625d1c5d5"
     },
     {
         "path": "/media/posts/3/responsive/IMG_9047-2xl.jpg",
@@ -905,14 +825,14 @@
         "md5": "8127676f3e51e452cf31dafadbfa980e"
     },
     {
-        "path": "/media/posts/4/gallery/IMG_9179-thumbnail.jpg",
+        "path": "/media/posts/4/gallery/IMG_9179-2-thumbnail.jpg",
         "type": "file",
-        "md5": "098b835e85a0f776079a60098b3005f5"
+        "md5": "694826def4e2f6e87764abb8567d8a45"
     },
     {
-        "path": "/media/posts/4/gallery/IMG_9179.jpg",
+        "path": "/media/posts/4/gallery/IMG_9179-2.jpg",
         "type": "file",
-        "md5": "1a9d0b7a88ade5cba5d94680a03f281c"
+        "md5": "915a4dd0766c6b4427c674add80c1780"
     },
     {
         "path": "/media/posts/4/gallery/IMG_9181-thumbnail.jpg",
@@ -1142,7 +1062,7 @@
     {
         "path": "/nature-morte/index.html",
         "type": "file",
-        "md5": "d98faed84bdc372ebb7027362cceecb7"
+        "md5": "d02a35bce2636d04950926556c81178c"
     },
     {
         "path": "paysages",
@@ -1152,7 +1072,7 @@
     {
         "path": "/paysages/index.html",
         "type": "file",
-        "md5": "5b6b780d5eeec21b122a4d7a9c2b3a13"
+        "md5": "b3e79948dbcd1c8c49c5fd013333807f"
     },
     {
         "path": "robots.txt",
@@ -1177,7 +1097,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "39473f45b7048864a73949337c3052ca"
+        "md5": "0c75273b31e5a02ca0a4a357a1e25b7a"
     },
     {
         "path": "sitemap.xsl",
