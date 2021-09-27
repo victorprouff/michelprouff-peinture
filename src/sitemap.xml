@@ -8,7 +8,7 @@
 <loc>https://peinture.michelprouff.fr/marines/</loc>
 <lastmod>2021-04-12T19:17:51+02:00</lastmod>
 <image:image>
-<image:loc>https://peinture.michelprouff.fr/media/posts/4/IMG_9166.jpg</image:loc>
+<image:loc>https://peinture.michelprouff.fr/media\posts\4/IMG_9166.jpg</image:loc>
 <image:title><![CDATA[Série marines]]></image:title>
 </image:image>
 </url>
@@ -16,15 +16,15 @@
 <loc>https://peinture.michelprouff.fr/nature-morte/</loc>
 <lastmod>2021-04-12T19:29:34+02:00</lastmod>
 <image:image>
-<image:loc>https://peinture.michelprouff.fr/media/posts/2/IMG_9209.jpg</image:loc>
+<image:loc>https://peinture.michelprouff.fr/media\posts\2/IMG_9209.jpg</image:loc>
 <image:title><![CDATA[Série Natures Mortes]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://peinture.michelprouff.fr/paysages/</loc>
-<lastmod>2021-05-09T15:55:09+02:00</lastmod>
+<lastmod>2021-09-27T18:17:27+02:00</lastmod>
 <image:image>
-<image:loc>https://peinture.michelprouff.fr/media/posts/3/IMG_9043-3.jpg</image:loc>
+<image:loc>https://peinture.michelprouff.fr/media\posts\3/IMG_9043-3.jpg</image:loc>
 <image:title><![CDATA[Série paysages]]></image:title>
 </image:image>
 </url>
@@ -32,7 +32,7 @@
 <loc>https://peinture.michelprouff.fr/serie-fleurs-2/</loc>
 <lastmod>2021-04-04T19:10:37+02:00</lastmod>
 <image:image>
-<image:loc>https://peinture.michelprouff.fr/media/posts/6/IMG_9225.jpg</image:loc>
+<image:loc>https://peinture.michelprouff.fr/media\posts\6/IMG_9225.jpg</image:loc>
 <image:title><![CDATA[Série Fleurs]]></image:title>
 </image:image>
 </url>
