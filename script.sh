@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-mv ./dest/michel-prouff-peinture-files/ ./src
+cd dest/michel-prouff-peinture-files/
+cp -R * ../../src
+sudo rm -R *
