@@ -2,7 +2,6 @@
 
 currentDate=`date +"%d-%m-%Y %T"`
 
-cd dest/michel-prouff-peinture-files/
 cp -R ./dest/michel-prouff-peinture-files/* ./src
 sudo rm -R ./dest/michel-prouff-peinture-files/*
 

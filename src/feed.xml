@@ -3,7 +3,7 @@
     <title>Michel Prouff - Peinture</title>
     <link href="https://peinture.michelprouff.fr/feed.xml" rel="self" />
     <link href="https://peinture.michelprouff.fr" />
-    <updated>2022-02-11T19:49:16+01:00</updated>
+    <updated>2022-10-16T12:41:21+02:00</updated>
     <author>
         <name>Michel Prouff</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://peinture.michelprouff.fr/serie-fleurs-2/"/>
         <id>https://peinture.michelprouff.fr/serie-fleurs-2/</id>
 
-        <updated>2021-04-04T19:10:37+02:00</updated>
+        <updated>2022-10-15T12:24:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://peinture.michelprouff.fr/media/posts/6/IMG_9225.jpg" alt="Série Fleurs" />
@@ -74,7 +74,7 @@
         <link href="https://peinture.michelprouff.fr/marines/"/>
         <id>https://peinture.michelprouff.fr/marines/</id>
 
-        <updated>2021-04-12T19:17:51+02:00</updated>
+        <updated>2022-10-16T12:41:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://peinture.michelprouff.fr/media/posts/4/IMG_9166.jpg" alt="Série marines" />
@@ -142,6 +142,11 @@
         <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/4/gallery/IMG_9211-thumbnail.jpg" height="443" width="768" alt="L’île Madame - Huile sur panneau - 41 x 24" />
       </a>
       <figcaption>L’île Madame - Huile sur panneau - 41 x 24</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/4/gallery/DSCF5240.JPG" data-size="3729x4471">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/4/gallery/DSCF5240-thumbnail.JPG" height="921" width="768" alt="Carentec - Huile sur panneau - 46 x 38" />
+      </a>
+      <figcaption>Carentec - Huile sur panneau - 46 x 38</figcaption>
     </figure>
     </div>
   </div>
@@ -156,7 +161,7 @@
         <link href="https://peinture.michelprouff.fr/paysages/"/>
         <id>https://peinture.michelprouff.fr/paysages/</id>
 
-        <updated>2022-02-11T19:49:16+01:00</updated>
+        <updated>2022-10-16T12:41:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://peinture.michelprouff.fr/media/posts/3/IMG_1749-2.jpg" alt="Série paysages" />
@@ -185,8 +190,8 @@
       </a>
       <figcaption>Le gite à Villeconin - Huile sur panneau - 46 x 38</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9058.jpg" data-size="3787x3148">
-        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9058-thumbnail.jpg" height="638" width="768" alt="La péniche à Saint Fargeau - Huile sur panneau - 46 x 38" />
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5236.JPG" data-size="4400x3661">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5236-thumbnail.JPG" height="639" width="768" alt="La péniche à Saint Fargeau - Huile sur panneau - 46 x 38" />
       </a>
       <figcaption>La péniche à Saint Fargeau - Huile sur panneau - 46 x 38</figcaption>
     </figure><figure class="gallery__item">
@@ -210,11 +215,6 @@
       </a>
       <figcaption>Marolles en Hurepoix - Huile sur panneau - 46 x 38</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9057.jpg" data-size="3052x3728">
-        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9057-thumbnail.jpg" height="938" width="768" alt="Angervilliers - Huile sur panneau - 46 x 38" />
-      </a>
-      <figcaption>Angervilliers - Huile sur panneau - 46 x 38</figcaption>
-    </figure><figure class="gallery__item">
       <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9135-2.jpg" data-size="3086x3854">
         <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9135-2-thumbnail.jpg" height="959" width="768" alt="Rue Desvallières, Seine-Port - Huile sur toile - 41 x 33" />
       </a>
@@ -229,16 +229,6 @@
         <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9144-thumbnail.jpg" height="964" width="768" alt="Rue demazures mentiennes, Seine-Port - Huile sur panneau - 41 x 33" />
       </a>
       <figcaption>Rue demazures mentiennes, Seine-Port - Huile sur panneau - 41 x 33</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9151.jpg" data-size="2992x3909">
-        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9151-thumbnail.jpg" height="1003" width="768" alt="La tour César, Provins - Huile sur toile - 35 x 27" />
-      </a>
-      <figcaption>La tour César, Provins - Huile sur toile - 35 x 27</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9153.jpg" data-size="2953x3917">
-        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9153-thumbnail.jpg" height="1019" width="768" alt="La ruelle à Pont Croix - Huile sur toile - 35 x 27" />
-      </a>
-      <figcaption>La ruelle à Pont Croix - Huile sur toile - 35 x 27</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9160-2.jpg" data-size="3061x3792">
         <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_9160-2-thumbnail.jpg" height="951" width="768" alt="Le petit jard - Huile sur panneau - 27 x 22" />
@@ -285,8 +275,8 @@
       </a>
       <figcaption>Vers Noisement - Huile sur panneau - 41 x 27</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_1752.jpg" data-size="3214x3922">
-        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_1752-thumbnail.jpg" height="937" width="768" alt="La forêt de Fontainebleau - Huile sur panneau - 46 x 38" />
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5239.JPG" data-size="3723x4472">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5239-thumbnail.JPG" height="923" width="768" alt="La forêt de Fontainebleau - Huile sur panneau - 46 x 38" />
       </a>
       <figcaption>La forêt de Fontainebleau - Huile sur panneau - 46 x 38</figcaption>
     </figure><figure class="gallery__item">
@@ -314,9 +304,38 @@
         <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/IMG_1769-thumbnail.jpg" height="1099" width="768" alt="La forêt de Barbizon - Huile sur panneau - 39 x 27" />
       </a>
       <figcaption>La forêt de Barbizon - Huile sur panneau - 39 x 27</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5243.JPG" data-size="4481x3599">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5243-thumbnail.JPG" height="617" width="768" alt="Les trois péniches - Huile sur panneau - 41 x 33" />
+      </a>
+      <figcaption>Les trois péniches - Huile sur panneau - 41 x 33</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5244.JPG" data-size="4397x3577">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5244-thumbnail.JPG" height="625" width="768" alt="La Seine au Coudray - Huile sur panneau - 41 x 33" />
+      </a>
+      <figcaption>La Seine au Coudray - Huile sur panneau - 41 x 33</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5247.JPG" data-size="4211x3391">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5247-thumbnail.JPG" height="618" width="768" alt="Tournesol avant la moisson - Huile sur panneau - 41 x 33" />
+      </a>
+      <figcaption>Tournesol avant la moisson - Huile sur panneau - 41 x 33</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5249.JPG" data-size="4169x3180">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5249-thumbnail.JPG" height="586" width="768" alt="Le canal d'Orléans - Huile sur panneau - 35 x 27" />
+      </a>
+      <figcaption>Le canal d'Orléans - Huile sur panneau - 35 x 27</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5251.JPG" data-size="3455x4282">
+        <img loading="lazy" src="https://peinture.michelprouff.fr/media/posts/3/gallery/DSCF5251-thumbnail.JPG" height="952" width="768" alt="A Saint Sauveur - Huile sur panneau - 27 x 22" />
+      </a>
+      <figcaption>A Saint Sauveur - Huile sur panneau - 27 x 22</figcaption>
     </figure>
     </div>
   </div>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
