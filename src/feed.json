@@ -10,21 +10,6 @@
     },
     "items": [
         {
-            "id": "https://peinture.michelprouff.fr/serie-fleurs-2/",
-            "url": "https://peinture.michelprouff.fr/serie-fleurs-2/",
-            "title": "Série Fleurs",
-            "summary": "Fleurs d'automne - Huile sur panneau - 46 x 38 Rose&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9215.jpg\" data-size=\"3070x3765\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9215-thumbnail.jpg\" height=\"942\" width=\"768\" alt=\"Fleurs d'automne - Huile sur panneau - 46 x 38\" >\n      </a>\n      <figcaption>Fleurs d'automne - Huile sur panneau - 46 x 38</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9224.jpg\" data-size=\"3035x4104\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9224-thumbnail.jpg\" height=\"1039\" width=\"768\" alt=\"Rose jaune - Huile sur panneau - 35 x 27\" >\n      </a>\n      <figcaption>Rose jaune - Huile sur panneau - 35 x 27</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9229.jpg\" data-size=\"3002x3847\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9229-thumbnail.jpg\" height=\"984\" width=\"768\" alt=\"Coquelicot - Huile sur toile - 24 x 19\" >\n      </a>\n      <figcaption>Coquelicot - Huile sur toile - 24 x 19</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9243.jpg\" data-size=\"3150x4134\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9243-thumbnail.jpg\" height=\"1008\" width=\"768\" alt=\"Les jonquilles - Huile sur papier toilé - 35 x 27\" >\n      </a>\n      <figcaption>Les jonquilles - Huile sur papier toilé - 35 x 27</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9222.jpg\" data-size=\"3041x3679\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/6/gallery/IMG_9222-thumbnail.jpg\" height=\"929\" width=\"768\" alt=\"Les lilas - Huile sur panneau - 46 x 38\" >\n      </a>\n      <figcaption>Les lilas - Huile sur panneau - 46 x 38</figcaption>\n    </figure>\n    </div>\n  </div>",
-            "image": "https://peinture.michelprouff.fr/media/posts/6/IMG_9225.jpg",
-            "author": {
-                "name": "Michel Prouff"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-04-04T19:06:09+02:00",
-            "date_modified": "2023-06-17T18:03:32+02:00"
-        },
-        {
             "id": "https://peinture.michelprouff.fr/marines/",
             "url": "https://peinture.michelprouff.fr/marines/",
             "title": "Série Marines",
@@ -53,21 +38,6 @@
             ],
             "date_published": "2021-02-16T21:21:27+01:00",
             "date_modified": "2023-06-17T18:59:34+02:00"
-        },
-        {
-            "id": "https://peinture.michelprouff.fr/nature-morte/",
-            "url": "https://peinture.michelprouff.fr/nature-morte/",
-            "title": "Série Natures Mortes",
-            "summary": "Le violon - Huile sur toile - 60 x 50 L'ours&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9183.jpg\" data-size=\"3049x3769\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9183-thumbnail.jpg\" height=\"949\" width=\"768\" alt=\"Le violon - Huile sur toile - 60 x 50\" >\n      </a>\n      <figcaption>Le violon - Huile sur toile - 60 x 50</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9185.jpg\" data-size=\"3065x3736\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9185-thumbnail.jpg\" height=\"936\" width=\"768\" alt=\"L'ours - Huile sur toile - 55 x 46\" >\n      </a>\n      <figcaption>L'ours - Huile sur toile - 55 x 46</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9187.jpg\" data-size=\"3792x3129\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9187-thumbnail.jpg\" height=\"634\" width=\"768\" alt=\"Le maïs - Huile sur toile - 46 x 38\" >\n      </a>\n      <figcaption>Le maïs - Huile sur toile - 46 x 38</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9195.jpg\" data-size=\"3228x3241\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9195-thumbnail.jpg\" height=\"771\" width=\"768\" alt=\"Le hou - Huile sur toile - 30 x 30\" >\n      </a>\n      <figcaption>Le hou - Huile sur toile - 30 x 30</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9197.jpg\" data-size=\"4181x2908\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9197-thumbnail.jpg\" height=\"534\" width=\"768\" alt=\"Banane, clémentines et pomme - Huile sur toile - 27 x 19\" >\n      </a>\n      <figcaption>Banane, clémentines et pomme - Huile sur toile - 27 x 19</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9199-2.jpg\" data-size=\"3972x3036\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9199-2-thumbnail.jpg\" height=\"587\" width=\"768\" alt=\"Les trois mandarines - Huile sur toile - 24 x 18\" >\n      </a>\n      <figcaption>Les trois mandarines - Huile sur toile - 24 x 18</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9203.jpg\" data-size=\"2956x3031\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9203-thumbnail.jpg\" height=\"787\" width=\"768\" alt=\"Les trois kakis - Huile sur toile - 20 x 20\" >\n      </a>\n      <figcaption>Les trois kakis - Huile sur toile - 20 x 20</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9189.jpg\" data-size=\"4243x3259\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9189-thumbnail.jpg\" height=\"590\" width=\"768\" alt=\"Le raisin noir - Huile sur toile - 35 x 27\" >\n      </a>\n      <figcaption>Le raisin noir - Huile sur toile - 35 x 27</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9209.jpg\" data-size=\"3957x3035\">\n        <img loading=\"lazy\" src=\"https://peinture.michelprouff.fr/media/posts/2/gallery/IMG_9209-thumbnail.jpg\" height=\"589\" width=\"768\" alt=\"Les huîtres - Huile sur panneau - 35 x 27\" >\n      </a>\n      <figcaption>Les huîtres - Huile sur panneau - 35 x 27</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
-            "image": "https://peinture.michelprouff.fr/media/posts/2/IMG_9209.jpg",
-            "author": {
-                "name": "Michel Prouff"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-09T19:11:05+01:00",
-            "date_modified": "2023-06-17T18:03:18+02:00"
         }
     ]
 }

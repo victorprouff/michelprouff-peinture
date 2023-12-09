@@ -10,7 +10,7 @@ git add .
 git commit -m "Update Victor : ${currentDate}"
 git push
 
-cd /Users/victorprouff/Documents/Publii/sites
+cd /Users/victorprouff/code/Publii-src
 git add .
 git commit -m "Update Victor : ${currentDate}"
 git push
